@@ -1,4 +1,4 @@
-import app as st
+import streamlit as st
 import pickle
 import re
 import email
